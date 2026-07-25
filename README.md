@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @ADkathirRMK2023
-- 👀 I’m interested in ... WEB APPLICATIONS
-- 🌱 I’m currently learning ... AI AND DS
-- 💞️ I’m looking to collaborate on ... HTML , CSS AND JAVASCRIPT DEVELOPER
-- 📫 How to reach me ... kathirvel994062@gmail.com
-
-<!---
-ADkathirRMK2023/ADkathirRMK2023 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🧠 About Me
+🎓 Final-year B.Tech in Artificial Intelligence & Data Science, RMK Engineering College, Chennai
+🔭 Currently building CARE-AI — a clinical risk platform combining XGBoost, SHAP, Cox Proportional Hazards, and LLM-generated clinical summaries
+📝 Working on an IEEE research paper applying Hierarchical Reinforcement Learning (action-masked PPO) to medical diagnosis triage
+🌱 Deepening my skills in ML Ops, AI system architecture, and production-grade GenAI pipelines
+💬 Ask me about RAG systems, fine-tuning LLMs, reinforcement learning, or fraud detection pipelines
+📫 Reach me at kathirvel994062@gmail.com
+⚡ Fun fact: I debug models the same way I debug my deadlift form — one rep, one epoch at a time.
